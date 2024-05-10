@@ -1,0 +1,817 @@
+UF,Município,cod_mun
+BA,Abaíra,290010
+BA,Abaré,290020
+BA,Acajutiba,290030
+BA,Adustina,290035
+BA,Água Fria,290040
+BA,Aiquara,290060
+BA,Alagoinhas,290070
+BA,Alcobaça,290080
+BA,Almadina,290090
+BA,Amargosa,290100
+BA,Amélia Rodrigues,290110
+BA,América Dourada,290115
+BA,Anagé,290120
+BA,Andaraí,290130
+BA,Andorinha,290135
+BA,Angical,290140
+BA,Anguera,290150
+BA,Antas,290160
+BA,Antônio Cardoso,290170
+BA,Antônio Gonçalves,290180
+BA,Aporá,290190
+BA,Apuarema,290195
+BA,Araças,290205
+BA,Aracatu,290200
+BA,Araci,290210
+BA,Aramari,290220
+BA,Arataca,290225
+BA,Aratuípe,290230
+BA,Aurelino Leal,290240
+BA,Baianópolis,290250
+BA,Baixa Grande,290260
+BA,Banzaê,290265
+BA,Barra,290270
+BA,Barra da Estiva,290280
+BA,Barra do Choça,290290
+BA,Barra do Mendes,290300
+BA,Barra do Rocha,290310
+BA,Barreiras,290320
+BA,Barro Alto,290323
+BA,Barrocas,290327
+BA,Barro Preto,290330
+BA,Belmonte,290340
+BA,Belo Campo,290350
+BA,Biritinga,290360
+BA,Boa Nova,290370
+BA,Boa Vista do Tupim,290380
+BA,Bom Jesus da Lapa,290390
+BA,Bom Jesus da Serra,290395
+BA,Boninal,290400
+BA,Bonito,290405
+BA,Boquira,290410
+BA,Botuporã,290420
+BA,Brejões,290430
+BA,Brejolândia,290440
+BA,Brotas de Macaúbas,290450
+BA,Brumado,290460
+BA,Buerarema,290470
+BA,Buritirama,290475
+BA,Caatiba,290480
+BA,Cabaceiras do Paraguaçu,290485
+BA,Cachoeira,290490
+BA,Caculé,290500
+BA,Caém,290510
+BA,Caetanos,290515
+BA,Caetité,290520
+BA,Cafarnaum,290530
+BA,Cairu,290540
+BA,Caldeirão Grande,290550
+BA,Camacan,290560
+BA,Camaçari,290570
+BA,Camamu,290580
+BA,Campo Alegre de Lourdes,290590
+BA,Campo Formoso,290600
+BA,Canápolis,290610
+BA,Canarana,290620
+BA,Canavieiras,290630
+BA,Candeal,290640
+BA,Candeias,290650
+BA,Candiba,290660
+BA,Cândido Sales,290670
+BA,Cansanção,290680
+BA,Canudos,290682
+BA,Capela do Alto Alegre,290685
+BA,Capim Grosso,290687
+BA,Caraíbas,290689
+BA,Caravelas,290690
+BA,Cardeal da Silva,290700
+BA,Carinhanha,290710
+BA,Casa Nova,290720
+BA,Castro Alves,290730
+BA,Catolândia,290740
+BA,Catu,290750
+BA,Caturama,290755
+BA,Central,290760
+BA,Chorrochó,290770
+BA,Cícero Dantas,290780
+BA,Cipó,290790
+BA,Coaraci,290800
+BA,Cocos,290810
+BA,Conceição da Feira,290820
+BA,Conceição do Almeida,290830
+BA,Conceição do Coité,290840
+BA,Conceição do Jacuípe,290850
+BA,Conde,290860
+BA,Condeúba,290870
+BA,Contendas do Sincorá,290880
+BA,Coração de Maria,290890
+BA,Cordeiros,290900
+BA,Coribe,290910
+BA,Coronel João Sá,290920
+BA,Correntina,290930
+BA,Cotegipe,290940
+BA,Cravolândia,290950
+BA,Crisópolis,290960
+BA,Cristópolis,290970
+BA,Cruz das Almas,290980
+BA,Curaçá,290990
+BA,Dário Meira,291000
+BA,Dias d'Ávila,291005
+BA,Dom Basílio,291010
+BA,Dom Macedo Costa,291020
+BA,Elísio Medrado,291030
+BA,Encruzilhada,291040
+BA,Entre Rios,291050
+BA,Érico Cardoso,290050
+BA,Esplanada,291060
+BA,Euclides da Cunha,291070
+BA,Eunápolis,291072
+BA,Fátima,291075
+BA,Feira da Mata,291077
+BA,Feira de Santana,291080
+BA,Filadélfia,291085
+BA,Firmino Alves,291090
+BA,Floresta Azul,291100
+BA,Formosa do Rio Preto,291110
+BA,Gandu,291120
+BA,Gavião,291125
+BA,Gentio do Ouro,291130
+BA,Glória,291140
+BA,Gongogi,291150
+BA,Governador Mangabeira,291160
+BA,Guajeru,291165
+BA,Guanambi,291170
+BA,Guaratinga,291180
+BA,Heliópolis,291185
+BA,Iaçu,291190
+BA,Ibiassucê,291200
+BA,Ibicaraí,291210
+BA,Ibicoara,291220
+BA,Ibicuí,291230
+BA,Ibipeba,291240
+BA,Ibipitanga,291250
+BA,Ibiquera,291260
+BA,Ibirapitanga,291270
+BA,Ibirapuã,291280
+BA,Ibirataia,291290
+BA,Ibitiara,291300
+BA,Ibititá,291310
+BA,Ibotirama,291320
+BA,Ichu,291330
+BA,Igaporã,291340
+BA,Igrapiúna,291345
+BA,Iguaí,291350
+BA,Ilhéus,291360
+BA,Inhambupe,291370
+BA,Ipecaetá,291380
+BA,Ipiaú,291390
+BA,Ipirá,291400
+BA,Ipupiara,291410
+BA,Irajuba,291420
+BA,Iramaia,291430
+BA,Iraquara,291440
+BA,Irará,291450
+BA,Irecê,291460
+BA,Itabela,291465
+BA,Itaberaba,291470
+BA,Itabuna,291480
+BA,Itacaré,291490
+BA,Itaeté,291500
+BA,Itagi,291510
+BA,Itagibá,291520
+BA,Itagimirim,291530
+BA,Itaguaçu da Bahia,291535
+BA,Itaju do Colônia,291540
+BA,Itajuípe,291550
+BA,Itamaraju,291560
+BA,Itamari,291570
+BA,Itambé,291580
+BA,Itanagra,291590
+BA,Itanhém,291600
+BA,Itaparica,291610
+BA,Itapé,291620
+BA,Itapebi,291630
+BA,Itapetinga,291640
+BA,Itapicuru,291650
+BA,Itapitanga,291660
+BA,Itaquara,291670
+BA,Itarantim,291680
+BA,Itatim,291685
+BA,Itiruçu,291690
+BA,Itiúba,291700
+BA,Itororó,291710
+BA,Ituaçu,291720
+BA,Ituberá,291730
+BA,Iuiú,291733
+BA,Jaborandi,291735
+BA,Jacaraci,291740
+BA,Jacobina,291750
+BA,Jaguaquara,291760
+BA,Jaguarari,291770
+BA,Jaguaripe,291780
+BA,Jandaíra,291790
+BA,Jequié,291800
+BA,Jeremoabo,291810
+BA,Jiquiriçá,291820
+BA,Jitaúna,291830
+BA,João Dourado,291835
+BA,Juazeiro,291840
+BA,Jucuruçu,291845
+BA,Jussara,291850
+BA,Jussari,291855
+BA,Jussiape,291860
+BA,Lafaiete Coutinho,291870
+BA,Lagoa Real,291875
+BA,Laje,291880
+BA,Lajedão,291890
+BA,Lajedinho,291900
+BA,Lajedo do Tabocal,291905
+BA,Lamarão,291910
+BA,Lapão,291915
+BA,Lauro de Freitas,291920
+BA,Lençóis,291930
+BA,Licínio de Almeida,291940
+BA,Livramento de Nossa Senhora,291950
+BA,Luís Eduardo Magalhães,291955
+BA,Macajuba,291960
+BA,Macarani,291970
+BA,Macaúbas,291980
+BA,Macururé,291990
+BA,Madre de Deus,291992
+BA,Maetinga,291995
+BA,Maiquinique,292000
+BA,Mairi,292010
+BA,Malhada,292020
+BA,Malhada de Pedras,292030
+BA,Manoel Vitorino,292040
+BA,Mansidão,292045
+BA,Maracás,292050
+BA,Maragogipe,292060
+BA,Maraú,292070
+BA,Marcionílio Souza,292080
+BA,Mascote,292090
+BA,Mata de São João,292100
+BA,Matina,292105
+BA,Medeiros Neto,292110
+BA,Miguel Calmon,292120
+BA,Milagres,292130
+BA,Mirangaba,292140
+BA,Mirante,292145
+BA,Monte Santo,292150
+BA,Morpará,292160
+BA,Morro do Chapéu,292170
+BA,Mortugaba,292180
+BA,Mucugê,292190
+BA,Mucuri,292200
+BA,Mulungu do Morro,292205
+BA,Mundo Novo,292210
+BA,Muniz Ferreira,292220
+BA,Muquém de São Francisco,292225
+BA,Muritiba,292230
+BA,Mutuípe,292240
+BA,Nazaré,292250
+BA,Nilo Peçanha,292260
+BA,Nordestina,292265
+BA,Nova Canaã,292270
+BA,Nova Fátima,292273
+BA,Nova Ibiá,292275
+BA,Nova Itarana,292280
+BA,Nova Redenção,292285
+BA,Nova Soure,292290
+BA,Nova Viçosa,292300
+BA,Novo Horizonte,292303
+BA,Novo Triunfo,292305
+BA,Olindina,292310
+BA,Oliveira dos Brejinhos,292320
+BA,Ouriçangas,292330
+BA,Ourolândia,292335
+BA,Palmas de Monte Alto,292340
+BA,Palmeiras,292350
+BA,Paramirim,292360
+BA,Paratinga,292370
+BA,Paripiranga,292380
+BA,Pau Brasil,292390
+BA,Paulo Afonso,292400
+BA,Pé de Serra,292405
+BA,Pedrão,292410
+BA,Pedro Alexandre,292420
+BA,Piatã,292430
+BA,Pilão Arcado,292440
+BA,Pindaí,292450
+BA,Pindobaçu,292460
+BA,Pintadas,292465
+BA,Piraí do Norte,292467
+BA,Piripá,292470
+BA,Piritiba,292480
+BA,Planaltino,292490
+BA,Planalto,292500
+BA,Poções,292510
+BA,Pojuca,292520
+BA,Ponto Novo,292525
+BA,Porto Seguro,292530
+BA,Potiraguá,292540
+BA,Prado,292550
+BA,Presidente Dutra,292560
+BA,Presidente Jânio Quadros,292570
+BA,Presidente Tancredo Neves,292575
+BA,Queimadas,292580
+BA,Quijingue,292590
+BA,Quixabeira,292593
+BA,Rafael Jambeiro,292595
+BA,Remanso,292600
+BA,Retirolândia,292610
+BA,Riachão das Neves,292620
+BA,Riachão do Jacuípe,292630
+BA,Riacho de Santana,292640
+BA,Ribeira do Amparo,292650
+BA,Ribeira do Pombal,292660
+BA,Ribeirão do Largo,292665
+BA,Rio de Contas,292670
+BA,Rio do Antônio,292680
+BA,Rio do Pires,292690
+BA,Rio Real,292700
+BA,Rodelas,292710
+BA,Ruy Barbosa,292720
+BA,Salinas da Margarida,292730
+BA,Salvador,292740
+BA,Santa Bárbara,292750
+BA,Santa Brígida,292760
+BA,Santa Cruz Cabrália,292770
+BA,Santa Cruz da Vitória,292780
+BA,Santa Inês,292790
+BA,Santaluz,292800
+BA,Santa Luzia,292805
+BA,Santa Maria da Vitória,292810
+BA,Santana,292820
+BA,Santanópolis,292830
+BA,Santa Rita de Cássia,292840
+BA,Santa Teresinha,292850
+BA,Santo Amaro,292860
+BA,Santo Antônio de Jesus,292870
+BA,Santo Estêvão,292880
+BA,São Desidério,292890
+BA,São Domingos,292895
+BA,São Felipe,292910
+BA,São Félix,292900
+BA,São Félix do Coribe,292905
+BA,São Francisco do Conde,292920
+BA,São Gabriel,292925
+BA,São Gonçalo dos Campos,292930
+BA,São José da Vitória,292935
+BA,São José do Jacuípe,292937
+BA,São Miguel das Matas,292940
+BA,São Sebastião do Passé,292950
+BA,Sapeaçu,292960
+BA,Sátiro Dias,292970
+BA,Saubara,292975
+BA,Saúde,292980
+BA,Seabra,292990
+BA,Sebastião Laranjeiras,293000
+BA,Senhor do Bonfim,293010
+BA,Sento Sé,293020
+BA,Serra do Ramalho,293015
+BA,Serra Dourada,293030
+BA,Serra Preta,293040
+BA,Serrinha,293050
+BA,Serrolândia,293060
+BA,Simões Filho,293070
+BA,Sítio do Mato,293075
+BA,Sítio do Quinto,293076
+BA,Sobradinho,293077
+BA,Souto Soares,293080
+BA,Tabocas do Brejo Velho,293090
+BA,Tanhaçu,293100
+BA,Tanque Novo,293105
+BA,Tanquinho,293110
+BA,Taperoá,293120
+BA,Tapiramutá,293130
+BA,Teixeira de Freitas,293135
+BA,Teodoro Sampaio,293140
+BA,Teofilândia,293150
+BA,Teolândia,293160
+BA,Terra Nova,293170
+BA,Tremedal,293180
+BA,Tucano,293190
+BA,Uauá,293200
+BA,Ubaíra,293210
+BA,Ubaitaba,293220
+BA,Ubatã,293230
+BA,Uibaí,293240
+BA,Umburanas,293245
+BA,Una,293250
+BA,Urandi,293260
+BA,Uruçuca,293270
+BA,Utinga,293280
+BA,Valença,293290
+BA,Valente,293300
+BA,Várzea da Roça,293305
+BA,Várzea do Poço,293310
+BA,Várzea Nova,293315
+BA,Varzedo,293317
+BA,Vera Cruz,293320
+BA,Vereda,293325
+BA,Vitória da Conquista,293330
+BA,Wagner,293340
+BA,Wanderley,293345
+BA,Wenceslau Guimarães,293350
+BA,Xique-Xique,293360
+PR,Abatiá,410010
+PR,Adrianópolis,410020
+PR,Agudos do Sul,410030
+PR,Almirante Tamandaré,410040
+PR,Altamira do Paraná,410045
+PR,Altônia,410050
+PR,Alto Paraíso,412862
+PR,Alto Paraná,410060
+PR,Alto Piquiri,410070
+PR,Alvorada do Sul,410080
+PR,Amaporã,410090
+PR,Ampére,410100
+PR,Anahy,410105
+PR,Andirá,410110
+PR,Ângulo,410115
+PR,Antonina,410120
+PR,Antônio Olinto,410130
+PR,Apucarana,410140
+PR,Arapongas,410150
+PR,Arapoti,410160
+PR,Arapuã,410165
+PR,Araruna,410170
+PR,Araucária,410180
+PR,Ariranha do Ivaí,410185
+PR,Assaí,410190
+PR,Assis Chateaubriand,410200
+PR,Astorga,410210
+PR,Atalaia,410220
+PR,Balsa Nova,410230
+PR,Bandeirantes,410240
+PR,Barbosa Ferraz,410250
+PR,Barracão,410260
+PR,Barra do Jacaré,410270
+PR,Bela Vista da Caroba,410275
+PR,Bela Vista do Paraíso,410280
+PR,Bituruna,410290
+PR,Boa Esperança,410300
+PR,Boa Esperança do Iguaçu,410302
+PR,Boa Ventura de São Roque,410304
+PR,Boa Vista da Aparecida,410305
+PR,Bocaiúva do Sul,410310
+PR,Bom Jesus do Sul,410315
+PR,Bom Sucesso,410320
+PR,Bom Sucesso do Sul,410322
+PR,Borrazópolis,410330
+PR,Braganey,410335
+PR,Brasilândia do Sul,410337
+PR,Cafeara,410340
+PR,Cafelândia,410345
+PR,Cafezal do Sul,410347
+PR,Califórnia,410350
+PR,Cambará,410360
+PR,Cambé,410370
+PR,Cambira,410380
+PR,Campina da Lagoa,410390
+PR,Campina do Simão,410395
+PR,Campina Grande do Sul,410400
+PR,Campo Bonito,410405
+PR,Campo do Tenente,410410
+PR,Campo Largo,410420
+PR,Campo Magro,410425
+PR,Campo Mourão,410430
+PR,Cândido de Abreu,410440
+PR,Candói,410442
+PR,Cantagalo,410445
+PR,Capanema,410450
+PR,Capitão Leônidas Marques,410460
+PR,Carambeí,410465
+PR,Carlópolis,410470
+PR,Cascavel,410480
+PR,Castro,410490
+PR,Catanduvas,410500
+PR,Centenário do Sul,410510
+PR,Cerro Azul,410520
+PR,Céu Azul,410530
+PR,Chopinzinho,410540
+PR,Cianorte,410550
+PR,Cidade Gaúcha,410560
+PR,Clevelândia,410570
+PR,Colombo,410580
+PR,Colorado,410590
+PR,Congonhinhas,410600
+PR,Conselheiro Mairinck,410610
+PR,Contenda,410620
+PR,Corbélia,410630
+PR,Cornélio Procópio,410640
+PR,Coronel Domingos Soares,410645
+PR,Coronel Vivida,410650
+PR,Corumbataí do Sul,410655
+PR,Cruzeiro do Iguaçu,410657
+PR,Cruzeiro do Oeste,410660
+PR,Cruzeiro do Sul,410670
+PR,Cruz Machado,410680
+PR,Cruzmaltina,410685
+PR,Curitiba,410690
+PR,Curiúva,410700
+PR,Diamante D'Oeste,410715
+PR,Diamante do Norte,410710
+PR,Diamante do Sul,410712
+PR,Dois Vizinhos,410720
+PR,Douradina,410725
+PR,Doutor Camargo,410730
+PR,Doutor Ulysses,412863
+PR,Enéas Marques,410740
+PR,Engenheiro Beltrão,410750
+PR,Entre Rios do Oeste,410753
+PR,Esperança Nova,410752
+PR,Espigão Alto do Iguaçu,410754
+PR,Farol,410755
+PR,Faxinal,410760
+PR,Fazenda Rio Grande,410765
+PR,Fênix,410770
+PR,Fernandes Pinheiro,410773
+PR,Figueira,410775
+PR,Floraí,410780
+PR,Flor da Serra do Sul,410785
+PR,Floresta,410790
+PR,Florestópolis,410800
+PR,Flórida,410810
+PR,Formosa do Oeste,410820
+PR,Foz do Iguaçu,410830
+PR,Foz do Jordão,410845
+PR,Francisco Alves,410832
+PR,Francisco Beltrão,410840
+PR,General Carneiro,410850
+PR,Godoy Moreira,410855
+PR,Goioerê,410860
+PR,Goioxim,410865
+PR,Grandes Rios,410870
+PR,Guaíra,410880
+PR,Guairaçá,410890
+PR,Guamiranga,410895
+PR,Guapirama,410900
+PR,Guaporema,410910
+PR,Guaraci,410920
+PR,Guaraniaçu,410930
+PR,Guarapuava,410940
+PR,Guaraqueçaba,410950
+PR,Guaratuba,410960
+PR,Honório Serpa,410965
+PR,Ibaiti,410970
+PR,Ibema,410975
+PR,Ibiporã,410980
+PR,Icaraíma,410990
+PR,Iguaraçu,411000
+PR,Iguatu,411005
+PR,Imbaú,411007
+PR,Imbituva,411010
+PR,Inácio Martins,411020
+PR,Inajá,411030
+PR,Indianópolis,411040
+PR,Ipiranga,411050
+PR,Iporã,411060
+PR,Iracema do Oeste,411065
+PR,Irati,411070
+PR,Iretama,411080
+PR,Itaguajé,411090
+PR,Itaipulândia,411095
+PR,Itambaracá,411100
+PR,Itambé,411110
+PR,Itapejara d'Oeste,411120
+PR,Itaperuçu,411125
+PR,Itaúna do Sul,411130
+PR,Ivaí,411140
+PR,Ivaiporã,411150
+PR,Ivaté,411155
+PR,Ivatuba,411160
+PR,Jaboti,411170
+PR,Jacarezinho,411180
+PR,Jaguapitã,411190
+PR,Jaguariaíva,411200
+PR,Jandaia do Sul,411210
+PR,Janiópolis,411220
+PR,Japira,411230
+PR,Japurá,411240
+PR,Jardim Alegre,411250
+PR,Jardim Olinda,411260
+PR,Jataizinho,411270
+PR,Jesuítas,411275
+PR,Joaquim Távora,411280
+PR,Jundiaí do Sul,411290
+PR,Juranda,411295
+PR,Jussara,411300
+PR,Kaloré,411310
+PR,Lapa,411320
+PR,Laranjal,411325
+PR,Laranjeiras do Sul,411330
+PR,Leópolis,411340
+PR,Lidianópolis,411342
+PR,Lindoeste,411345
+PR,Loanda,411350
+PR,Lobato,411360
+PR,Londrina,411370
+PR,Luiziana,411373
+PR,Lunardelli,411375
+PR,Lupionópolis,411380
+PR,Mallet,411390
+PR,Mamborê,411400
+PR,Mandaguaçu,411410
+PR,Mandaguari,411420
+PR,Mandirituba,411430
+PR,Manfrinópolis,411435
+PR,Mangueirinha,411440
+PR,Manoel Ribas,411450
+PR,Marechal Cândido Rondon,411460
+PR,Maria Helena,411470
+PR,Marialva,411480
+PR,Marilândia do Sul,411490
+PR,Marilena,411500
+PR,Mariluz,411510
+PR,Maringá,411520
+PR,Mariópolis,411530
+PR,Maripá,411535
+PR,Marmeleiro,411540
+PR,Marquinho,411545
+PR,Marumbi,411550
+PR,Matelândia,411560
+PR,Matinhos,411570
+PR,Mato Rico,411573
+PR,Mauá da Serra,411575
+PR,Medianeira,411580
+PR,Mercedes,411585
+PR,Mirador,411590
+PR,Miraselva,411600
+PR,Missal,411605
+PR,Moreira Sales,411610
+PR,Morretes,411620
+PR,Munhoz de Melo,411630
+PR,Nossa Senhora das Graças,411640
+PR,Nova Aliança do Ivaí,411650
+PR,Nova América da Colina,411660
+PR,Nova Aurora,411670
+PR,Nova Cantu,411680
+PR,Nova Esperança,411690
+PR,Nova Esperança do Sudoeste,411695
+PR,Nova Fátima,411700
+PR,Nova Laranjeiras,411705
+PR,Nova Londrina,411710
+PR,Nova Olímpia,411720
+PR,Nova Prata do Iguaçu,411725
+PR,Nova Santa Bárbara,411721
+PR,Nova Santa Rosa,411722
+PR,Nova Tebas,411727
+PR,Novo Itacolomi,411729
+PR,Ortigueira,411730
+PR,Ourizona,411740
+PR,Ouro Verde do Oeste,411745
+PR,Paiçandu,411750
+PR,Palmas,411760
+PR,Palmeira,411770
+PR,Palmital,411780
+PR,Palotina,411790
+PR,Paraíso do Norte,411800
+PR,Paranacity,411810
+PR,Paranaguá,411820
+PR,Paranapoema,411830
+PR,Paranavaí,411840
+PR,Pato Bragado,411845
+PR,Pato Branco,411850
+PR,Paula Freitas,411860
+PR,Paulo Frontin,411870
+PR,Peabiru,411880
+PR,Perobal,411885
+PR,Pérola,411890
+PR,Pérola d'Oeste,411900
+PR,Piên,411910
+PR,Pinhais,411915
+PR,Pinhalão,411920
+PR,Pinhal de São Bento,411925
+PR,Pinhão,411930
+PR,Piraí do Sul,411940
+PR,Piraquara,411950
+PR,Pitanga,411960
+PR,Pitangueiras,411965
+PR,Planaltina do Paraná,411970
+PR,Planalto,411980
+PR,Ponta Grossa,411990
+PR,Pontal do Paraná,411995
+PR,Porecatu,412000
+PR,Porto Amazonas,412010
+PR,Porto Barreiro,412015
+PR,Porto Rico,412020
+PR,Porto Vitória,412030
+PR,Prado Ferreira,412033
+PR,Pranchita,412035
+PR,Presidente Castelo Branco,412040
+PR,Primeiro de Maio,412050
+PR,Prudentópolis,412060
+PR,Quarto Centenário,412065
+PR,Quatiguá,412070
+PR,Quatro Barras,412080
+PR,Quatro Pontes,412085
+PR,Quedas do Iguaçu,412090
+PR,Querência do Norte,412100
+PR,Quinta do Sol,412110
+PR,Quitandinha,412120
+PR,Ramilândia,412125
+PR,Rancho Alegre,412130
+PR,Rancho Alegre D'Oeste,412135
+PR,Realeza,412140
+PR,Rebouças,412150
+PR,Renascença,412160
+PR,Reserva,412170
+PR,Reserva do Iguaçu,412175
+PR,Ribeirão Claro,412180
+PR,Ribeirão do Pinhal,412190
+PR,Rio Azul,412200
+PR,Rio Bom,412210
+PR,Rio Bonito do Iguaçu,412215
+PR,Rio Branco do Ivaí,412217
+PR,Rio Branco do Sul,412220
+PR,Rio Negro,412230
+PR,Rolândia,412240
+PR,Roncador,412250
+PR,Rondon,412260
+PR,Rosário do Ivaí,412265
+PR,Sabáudia,412270
+PR,Salgado Filho,412280
+PR,Salto do Itararé,412290
+PR,Salto do Lontra,412300
+PR,Santa Amélia,412310
+PR,Santa Cecília do Pavão,412320
+PR,Santa Cruz de Monte Castelo,412330
+PR,Santa Fé,412340
+PR,Santa Helena,412350
+PR,Santa Inês,412360
+PR,Santa Isabel do Ivaí,412370
+PR,Santa Izabel do Oeste,412380
+PR,Santa Lúcia,412382
+PR,Santa Maria do Oeste,412385
+PR,Santa Mariana,412390
+PR,Santa Mônica,412395
+PR,Santana do Itararé,412400
+PR,Santa Tereza do Oeste,412402
+PR,Santa Terezinha de Itaipu,412405
+PR,Santo Antônio da Platina,412410
+PR,Santo Antônio do Caiuá,412420
+PR,Santo Antônio do Paraíso,412430
+PR,Santo Antônio do Sudoeste,412440
+PR,Santo Inácio,412450
+PR,São Carlos do Ivaí,412460
+PR,São Jerônimo da Serra,412470
+PR,São João,412480
+PR,São João do Caiuá,412490
+PR,São João do Ivaí,412500
+PR,São João do Triunfo,412510
+PR,São Jorge d'Oeste,412520
+PR,São Jorge do Ivaí,412530
+PR,São Jorge do Patrocínio,412535
+PR,São José da Boa Vista,412540
+PR,São José das Palmeiras,412545
+PR,São José dos Pinhais,412550
+PR,São Manoel do Paraná,412555
+PR,São Mateus do Sul,412560
+PR,São Miguel do Iguaçu,412570
+PR,São Pedro do Iguaçu,412575
+PR,São Pedro do Ivaí,412580
+PR,São Pedro do Paraná,412590
+PR,São Sebastião da Amoreira,412600
+PR,São Tomé,412610
+PR,Sapopema,412620
+PR,Sarandi,412625
+PR,Saudade do Iguaçu,412627
+PR,Sengés,412630
+PR,Serranópolis do Iguaçu,412635
+PR,Sertaneja,412640
+PR,Sertanópolis,412650
+PR,Siqueira Campos,412660
+PR,Sulina,412665
+PR,Tamarana,412667
+PR,Tamboara,412670
+PR,Tapejara,412680
+PR,Tapira,412690
+PR,Teixeira Soares,412700
+PR,Telêmaco Borba,412710
+PR,Terra Boa,412720
+PR,Terra Rica,412730
+PR,Terra Roxa,412740
+PR,Tibagi,412750
+PR,Tijucas do Sul,412760
+PR,Toledo,412770
+PR,Tomazina,412780
+PR,Três Barras do Paraná,412785
+PR,Tunas do Paraná,412788
+PR,Tuneiras do Oeste,412790
+PR,Tupãssi,412795
+PR,Turvo,412796
+PR,Ubiratã,412800
+PR,Umuarama,412810
+PR,União da Vitória,412820
+PR,Uniflor,412830
+PR,Uraí,412840
+PR,Ventania,412853
+PR,Vera Cruz do Oeste,412855
+PR,Verê,412860
+PR,Virmond,412865
+PR,Vitorino,412870
+PR,Wenceslau Braz,412850
+PR,Xambrê,412880
